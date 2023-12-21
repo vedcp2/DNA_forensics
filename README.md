@@ -1,4 +1,4 @@
-This DNA Matching Library is designed to analyze DNA sequences and identify matches based on a given dataset. The library reads DNA patterns from a file and compares them with a target DNA sequence to find potential matches.
+This application is designed to analyze DNA sequences and identify matches based on a given dataset. The library reads DNA patterns from a file and compares them with a target DNA sequence to find potential matches.
 
 Features:
 - String Multiplication (MultiplyStringByInt): Repeats a given string a specified number of times.
